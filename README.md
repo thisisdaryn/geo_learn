@@ -49,3 +49,17 @@ Philadelphia
     - Last updated: 2020-02-09
     - formats: shp
 
+  - 2019 Election Results
+    - Original location: https://chicagoelections.gov/en/election-results-specifics.asp
+    - Last updated: 2020-02-09
+    - formats: xlsx
+    
+  - 2019 Crime Statistics
+    - Original location: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+    - Last updated: 2020-02-09
+    - formats: csv
+  
+  - Illinois crime codes
+    - Original location: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+    - Last updated: 2020-02-09
+    - formats: csv
