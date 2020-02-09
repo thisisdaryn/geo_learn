@@ -28,4 +28,24 @@ Chicago
     - Last updated: 2020-02-09
     - formats: geojson, kml, shp
     
-    
+Philadelphia 
+  - Political Ward Divisions
+    - Original location: https://www.opendataphilly.org/dataset/political-ward-divisions
+    - Last updated: 2020-02-09
+    - formats: geojson, kml, shp
+
+  - Zip code boundaries
+    - Original location: https://www.opendataphilly.org/dataset/zip-codes
+    - Last updated: 2020-02-09
+    - formats: geojson, kml, shp
+  
+  - Census tracts
+    - Original location: https://www.opendataphilly.org/dataset/census-tracts 
+    - Last updated: 2020-02-09
+    - formats: geojson, shp
+  
+  - Neighborhoods
+    - Original location: https://www.opendataphilly.org/dataset/philadelphia-neighborhoods 
+    - Last updated: 2020-02-09
+    - formats: shp
+
